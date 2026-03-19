@@ -68,7 +68,7 @@ Feel free to open a GitHub issue on [the official repository of Keystone](https:
 
 ## Contributors
 
-Author: Jämes Ménétrey ([@ZenLulz](https://github.com/ZenLulz/)) 
+Author: Jämes Menetrey ([@ZenLulz](https://github.com/ZenLulz/)) 
 
 Maintainers:
 

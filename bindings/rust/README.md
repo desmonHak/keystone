@@ -53,4 +53,4 @@ cargo test
 - Tasuku SUENAGA a.k.a. gunyarakun (@tasukuchan)
 
 Special thanks to:
-- Sébastien Duquette (@ekse) for his [unicorn-rs](https://github.com/ekse/unicorn-rs) binding
+- Sebastien Duquette (@ekse) for his [unicorn-rs](https://github.com/ekse/unicorn-rs) binding

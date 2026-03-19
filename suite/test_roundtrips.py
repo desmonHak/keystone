@@ -188,7 +188,7 @@ if __name__ == "__main__":
         reassembled = assemble(arch_mode, disassembled)
         if assembled == reassembled:
             status_color = colors["green"]
-            status_marker = "✓"
+            status_marker = " "
             equality = "=="
         else:
             status_color = colors["red"]

@@ -1,4 +1,4 @@
-﻿This file credits all the contributors of Keystone Engine (keystone-engine.org).
+This file credits all the contributors of Keystone Engine (keystone-engine.org).
 
 
 Beta testers (in no particular order)
@@ -12,7 +12,7 @@ Loi Anh Tuan
 Sascha Schirra
 hugsy
 Alexander Tereshkin
-Sébastien Duquette
+Sebastien Duquette
 Sergi Alvarez, aka pancake (author of radare)
 Richo Healey
 Remco Verhoef (honeytrap.io)
@@ -49,6 +49,6 @@ Ruben Boonen: PowerShell binding.
 Marco Fornaro: C# binding.
 David Zimmer: VB6 binding.
 Michael Mohr: Debian packaging.
-Jämes Ménétrey (ZenLulz): Java binding.
+Jämes Menetrey (ZenLulz): Java binding.
 Philippe Antoine (Catena cyber): fuzzing.
 Kevin Foo (chfl4gs): PyPI packaging, Travis-CI, fixes for Python binding.

@@ -17,7 +17,7 @@ for crash_case in $(find . -name "crash-??-*" -not -name "*.sh" -type f | sort -
   num_tests=$((num_tests + 1))
   { $crash_case; } > /dev/null 2> /dev/null
   if [[ $? == 0 ]]; then
-    printf "  %b  %b\n" "${COLOR_GREEN}✓${COLOR_NORMAL_DISPLAY}" "${crash_case}"
+    printf "  %b  %b\n" "${COLOR_GREEN} ${COLOR_NORMAL_DISPLAY}" "${crash_case}"
   else
     num_crashed=$((num_crashed + 1))
     printf "  %b  %b\n" "${COLOR_RED}✘${COLOR_NORMAL_DISPLAY}" "${crash_case}"

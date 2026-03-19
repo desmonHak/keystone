@@ -9,7 +9,7 @@
     <FileVersion>$(Version).0</FileVersion>
 
     <Description>.NET bindings to the Keystone Engine.</Description>
-    <Authors>Grégoire Geis</Authors>
+    <Authors>Gregoire Geis</Authors>
 
     <PackageId>Keystone.Net</PackageId>
     <PackageVersion>$(Version)</PackageVersion>

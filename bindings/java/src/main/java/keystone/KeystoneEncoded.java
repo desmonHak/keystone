@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2018 Jämes Ménétrey <james@menetrey.me>
+ * Copyright (c) 2018 Jämes Menetrey <james@menetrey.me>
  *
  * This file is part of the Keystone Java bindings which is released under MIT.
  * See file LICENSE in the Java bindings folder for full license details.
