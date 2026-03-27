@@ -4,6 +4,10 @@
 cmake_minimum_required(VERSION 2.8.7)
 project(keystone)
 
+set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+add_compile_options(-Wno-pedantic -Wno-unused-parameter -Wno-old-style-cast)
+
 set(KEYSTONE_VERSION_MAJOR 0)
 set(KEYSTONE_VERSION_MINOR 9)
 
