@@ -22,7 +22,7 @@
 #include <cassert>
 #include <cstdlib>
 
-#if defined(HAVE_UNISTD_H)
+#if defined(HAVE_UNISTD_H) || defined(__MINGW32__) || defined(__MINGW64__)
 # include <unistd.h>
 #endif
 #if defined(_MSC_VER)
