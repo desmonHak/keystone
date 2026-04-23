@@ -19,7 +19,7 @@ if (POLICY CMP0051)
   # stripped everywhere that access the SOURCES property, so we just
   # defer to the OLD behavior of not including generator expressions
   # in the output for now.
-  cmake_policy(SET CMP0051 OLD)
+  # cmake_policy(SET CMP0051 OLD)  # removed: not supported in CMake 4.x
 endif()
 
 if(CMAKE_VERSION VERSION_LESS 3.1.20141117)
